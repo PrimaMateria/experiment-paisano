@@ -1,5 +1,2 @@
-{ inputs, cell }:
-{
-  bar = "bar";
-}
+{ inputs, cell }: { bar = "bar"; }
 
